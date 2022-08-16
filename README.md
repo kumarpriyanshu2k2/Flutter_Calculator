@@ -2,4 +2,4 @@
 
 This is my first Project using Flutter.
 
-![Simple Calculator]('Screenshot.jpg')
+![Simple Calculator]('./Screenshot.jpg')
